@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Diji Agberien :smiley: and I'd like to think of myself as an analytics and software enthusiast. 
+-  :seedling: My goal is to become a "Data Unicorn" i.e., being well-versed in Data Engineering, Data Science, and Data Analytics. 
+- :computer: I currently work as a Data Analyst at PayByPhone, Vancouver, BC.
+- :fish: I also do some analytics work for the Fish Ecology and Conservation Physiology Lab, Carleton University, Ottawa, ON. 
