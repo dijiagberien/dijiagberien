@@ -1,5 +1,2 @@
 - 👋 Hi, I'm Diji :smiley:.
-- I like to challenge myself. 
-- I like to provide solutions.
-- I like learning. 
-- I like implementing.
+- Analytics and Development is the goal. 
