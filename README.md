@@ -1,2 +1,2 @@
-- 👋 Hi, I'm Diji :smiley:.
+- 👋 Hi, I'm Diji.
 - I enjoy everything that has to do with data - data architecture, data engineering, and data science.
